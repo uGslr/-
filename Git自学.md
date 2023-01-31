@@ -239,6 +239,7 @@ git push [-f] [--set-upstream] [remoteLibraryName [localBranchName][：remoteBra
 
 * 上面的第二个指令中 *--set-upstream*可以将本地分支和远端分支绑定到一起
 * 下次推送时，可以用*git push*直接将绑定的分支推上远端仓库
+* **-f**为强行推送
 
 ```git
 # 产看本地分支和远程分支对应关系
